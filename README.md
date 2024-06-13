@@ -4,6 +4,11 @@
 
 [Leigang Qu](https://lgqu.github.io/), [Haochuan Li](), [Tan Wang*](https://wangt-cn.github.io/), [Wenjie Wang*](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
+(* Corresponding Author)
+National University of Singapore, Nanyang Technological University, Hong Kong Polytechnic University, Harbin Institute of Technology (Shenzhen)
+
+## News Update
+
 <a href='https://tiger-t2i.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2406.05814'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 This repository contains code and links to the Unified Text-to-Image Generation and Retrieval (**TIGeR**) work. We show the potential of intrinsic discriminative abilities of current Multimodal Large Language Models (MLLMs) and propose a training-free method to unify text-to-image generation and retrieval. Besides, we build a benchmark called TIGeR-Bench to comprehensively evaluate the unified performance across recent MLLMs. 
