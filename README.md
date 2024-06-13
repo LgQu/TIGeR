@@ -4,7 +4,8 @@
 
 [Leigang Qu](https://lgqu.github.io/), [Haochuan Li](), [Tan Wang*](https://wangt-cn.github.io/), [Wenjie Wang*](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-(* Corresponding Author)
+(* Corresponding Authors)
+
 National University of Singapore, Nanyang Technological University, Hong Kong Polytechnic University, Harbin Institute of Technology (Shenzhen)
 
 ## News Update
