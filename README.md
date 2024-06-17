@@ -4,7 +4,7 @@
 
 <h3><a href="">Unified Text-to-Image Generation and Retrieval</a></h3>
 
-[Leigang Qu](https://lgqu.github.io/), [Haochuan Li](), [Tan Wang*](https://wangt-cn.github.io/), [Wenjie Wang*](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
+[Leigang Qu](https://leigang-qu.github.io/), [Haochuan Li](), [Tan Wang*](https://wangt-cn.github.io/), [Wenjie Wang*](https://wenjiewwj.github.io/), [Yongqi Li](https://liyongqi67.github.io/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
 (* Corresponding Authors)
 
