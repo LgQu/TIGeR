@@ -31,9 +31,9 @@ Overview of the framework to unify text-to-image generation and retrieval. Image
 ## Release
 
 - [ ] Release the evaluation code for the unified task and the retrieval task. 
-- [ ] Release the inference code for unified text-to-image generation and retrieval. 
+- [ ] Release the inference code for unified text-to-image generation and retrieval.
+- [x] **2024-7-6** Release [TIGeR-Bench](https://huggingface.co/datasets/leigangqu/TIGeR-Bench) on Huggingface. 
 - [x] **2024-6-9** Release the paper of TIGeR on [arXiv](https://arxiv.org/abs/2406.05814). 
-
 
 
 
