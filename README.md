@@ -5,9 +5,9 @@
 [![Benchmark](https://img.shields.io/badge/Hugging%20Face-TIGeR--Bench-yellow)](https://huggingface.co/datasets/leigangqu/TIGeR-Bench)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](LICENSE)
 
-[Leigang Qu](https://leigang-qu.github.io/), Haochuan Li, [Tan Wang](https://wangt-cn.github.io/)<sup>*</sup>, [Wenjie Wang](https://wenjiewwj.github.io/)<sup>*</sup>, [Yongqi Li](https://liyongqi67.github.io/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
+[Leigang Qu](https://leigang-qu.github.io/), Haochuan Li, [Tan Wang](https://wangt-cn.github.io/)<sup>&ast;</sup>, [Wenjie Wang](https://wenjiewwj.github.io/)<sup>&ast;</sup>, [Yongqi Li](https://liyongqi67.github.io/), [Liqiang Nie](https://liqiangnie.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/)
 
-<sup>*</sup> Corresponding authors
+<sup>&ast;</sup> Corresponding authors
 
 TIGeR is a training-free framework that lets a multimodal large language model choose between two actions for a text prompt:
 
