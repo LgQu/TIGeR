@@ -1,0 +1,6 @@
+generated/
+intermediate_results/
+results/
+__pycache__/
+*.py[cod]
+.DS_Store
